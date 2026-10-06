@@ -1,6 +1,4 @@
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=srijal30&theme=dark&hide_border=false)<br/>
-
+Welcome to my GitHub... 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srijal30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
